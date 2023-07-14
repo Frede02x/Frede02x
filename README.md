@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm FREDE</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<!-- <img src=""> -->
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCrPMnHtZhv14JJ_sFjerRQg)](https://www.youtube.com/@thefredexx)
 [![Twitch Status](https://img.shields.io/twitch/status/TheFredexx?style=social)](https://www.twitch.tv/TheFredexx)
